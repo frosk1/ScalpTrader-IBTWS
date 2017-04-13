@@ -1,4 +1,4 @@
-# Code for the Interactive Brokers articles
+# Interactive Brokers articles
 
 This repository contains the Python Interactive Brokers TWS API and example code from the articles at ScalpTrader.com
 
